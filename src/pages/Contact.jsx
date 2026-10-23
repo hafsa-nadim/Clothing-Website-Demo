@@ -8,7 +8,7 @@ function Contact() {
    <div className="relative hidden lg:block lg:w-1/2">
       <div className="absolute inset-0 bg-cover bg-center"
          data-alt="Modern collaborative office space with natural lighting"
-         style="background-image: url('https://readymadeui.com/team-image.webp');">
+         style={{backgroundImage: url('https://readymadeui.com/team-image.webp')}}>
       </div>
    </div>
  
